@@ -13,3 +13,7 @@ node_modules/
 
 # Generated
 *.log
+
+# LinkedIn artifacts (prior session, separate scope from this portfolio)
+/assets/linkedin-*
+/linkedin-profile-update-draft.md
