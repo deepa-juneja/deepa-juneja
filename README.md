@@ -1,2 +1,2 @@
-# deepa-jineja
+# DEEPA JUNEJA
 Portfolio of Deepa Juneja
