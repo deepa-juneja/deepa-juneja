@@ -1,7 +1,7 @@
 # Deepa Juneja — Portfolio + Resume System
 
 **Date:** 2026-05-27
-**Status:** Approved for implementation (design + visual mockup signed off; data of record verified by user)
+**Status:** Shipped 2026-05-27 — https://raiaman15.github.io/deepa-juneja/
 **Owner:** Aman Rai (raiaman15)
 **Subject:** Deepa Juneja
 
@@ -68,7 +68,7 @@ data/roles/<role>.json (5 overlays)      ──┤──► js/render-portfolio.
 └── README.md
 ```
 
-The current `mockup/` directory (visual approval) will be **removed** at the end of implementation. Its `index.html` is the visual contract for `index.html` + `css/styles.css` + `js/role-picker.js`. Its `resume.html` is the visual contract for `resume.html` + `css/resume.css`.
+The `mockup/` directory was the visual contract during design and has been removed in favour of the live `index.html` / `resume.html`.
 
 ## 5. JSON schema
 
