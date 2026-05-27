@@ -1,0 +1,63 @@
+{
+  "name": "Deepa Juneja",
+  "tagline": "Educator. Coordinator. Operator.",
+  "contact": {
+    "email": "d.deepa2601@gmail.com",
+    "phone": "+91-9205562407",
+    "location": "Sector 23, Gurugram, Haryana, India",
+    "linkedin": "https://www.linkedin.com/in/deepa-juneja/"
+  },
+  "languages": ["English", "Hindi"],
+  "summary_general": "BCA, MCA, and an MBA — and over a decade running classrooms and school operations. I'm bringing that craft to corporate training, operations, and analytics.",
+  "about": [
+    "My career began with computer applications — BCA, then MCA, with an MBA done in parallel. The first paid year was teaching DBMS to BCA students as a contract lecturer in Rohtak. The decade that followed turned educational — coordinating schools, running examinations, building activity calendars, and teaching science. What looks like a 'switch' was always one continuous thread: figuring out how a group of people learns a complicated thing on a schedule.",
+    "Curriculum is a roadmap. A timetable is an operations plan. A parent–teacher meeting is stakeholder management. The vocabulary changes between schools and offices; the work doesn't. I'm looking for a role where this combination — three degrees, over a decade of running rooms full of people, and a fresh layer of AI fluency — does its best work."
+  ],
+  "pull_quote": "I taught science to teenagers, ran a school's calendar, and made spreadsheets the staff actually used. The work was always operational — it just lived inside a classroom.",
+  "education": [
+    { "id": "mba",  "degree": "Master of Business Administration", "institution": "Maharishi Dayanand University, Rohtak", "score": "~79%",  "start": "2010", "end": "2012" },
+    { "id": "mca",  "degree": "Master of Computer Applications",   "institution": "Vaish College of Engineering, Rohtak", "score": "~78%",  "start": "2008", "end": "2011" },
+    { "id": "bca",  "degree": "Bachelor of Computer Applications", "institution": "L.N. Hindu College, Rohtak",          "score": "75%",   "start": "2005", "end": "2008" },
+    { "id": "xii",  "degree": "12th Standard, CBSE",               "institution": "Shiksha Bharti School, Rohtak",       "score": "71%",   "start": "2003", "end": "2004" },
+    { "id": "x",    "degree": "10th Standard, CBSE",               "institution": "D.A.V Public School, Rohtak",         "score": "72%",   "start": "2001", "end": "2002" }
+  ],
+  "experience": [
+    { "id": "ai-upskill",  "title": "Self-directed AI Upskilling",       "organization": "Independent",                       "location": "Remote",            "start": "2025-02", "end": "present",     "type": "self-directed", "highlights": ["Working through Google's AI Essentials and AI Professional Certificate (Coursera).", "Daily working use of ChatGPT, Gemini, and Claude for research, writing, and planning.", "Pivoting from EdTech-AI to broader corporate roles in training, operations, and analytics."] },
+    { "id": "shikshiyan",  "title": "Science Teacher",                   "organization": "Shikshiyan School",                  "location": "Gurugram",          "start": "2024-04", "end": "2025-01",     "highlights": ["Taught Science to Grades 7 and 8.", "Designed lesson plans, assessments, and classroom activities aligned with the school's curriculum.", "Mentored students through term-end examinations and remediation."] },
+    { "id": "alpine",      "title": "Science Faculty",                   "organization": "Alpine Convent School",              "location": "Gurgaon",           "start": "2023-04", "end": "2023-12",     "highlights": ["Taught Science to upper-primary and middle-school students.", "Held additional charge as Activity Head; led school-level Science Quizzes and inter-school competitions."] },
+    { "id": "gao-tek",     "title": "HR Intern (part-time, remote)",     "organization": "GAO Tek Group",                      "location": "Remote",            "start": "2023-05", "end": "2023-06",     "highlights": ["Coordinated candidate sourcing pipelines using shared trackers and Microsoft Teams.", "Maintained candidate and interviewer schedules in MS Excel; produced weekly progress reports.", "Drafted standardised outreach templates and onboarding checklists adopted by the wider HR team."] },
+    { "id": "home-tuition","title": "Home Tuition Educator",             "organization": "Self-employed",                       "location": "Rohtak",            "start": "2019",    "end": "2023",        "highlights": ["Taught all subjects to Grades 6–10 — batches of 8 to 10 students.", "Kept teaching going through the pandemic when classrooms weren't an option.", "Built lesson plans, ran assessments, and tracked student progress over multiple academic years."] },
+    { "id": "amps",        "title": "Science Faculty, then Coordinator", "organization": "American Montessori Public School",  "location": "Gurugram",          "start": "2017",    "end": "2019",        "highlights": ["Joined as Science Faculty; promoted to Coordinator with charge over the academic and activity calendar.", "Owned exam logistics — seating, invigilation rosters, result compilation — for 600+ students.", "Acted as the operational point of contact between parents, teachers, and the principal's office."] },
+    { "id": "iimt",        "title": "Project Coordinator",               "organization": "IIMT College of Pharmacy",            "location": "Greater Noida",     "start": "2016",    "end": "2017-01",     "highlights": ["Coordinated departmental projects, academic events, and student records across multiple faculty stakeholders.", "Prepared trackers and weekly status documents that became the standard reporting format for the department."] },
+    { "id": "ved",         "title": "School Coordinator",                "organization": "Ved Model International School",      "location": "Rohtak",            "start": "2014",    "end": "2016",        "highlights": ["Managed end-to-end academic operations: timetabling, substitute scheduling, examination administration.", "Led extra-curricular programming and inter-school events; coordinated vendor logistics for school functions."] },
+    { "id": "neki-ram",    "title": "Contract Lecturer, DBMS",           "organization": "Neki Ram College",                    "location": "Rohtak",            "start": "2012",    "end": "2013",        "highlights": ["Taught Database Management Systems to Bachelor of Computer Applications students as a full-time contract lecturer.", "Designed coursework, conducted lab sessions, and evaluated semester assessments."] }
+  ],
+  "career_chapters": [
+    { "year": "2008",            "title": "BCA.",                                  "org": "L.N. Hindu College, Rohtak.",                  "body": "Three years on computer applications — C++, databases, the bones of how software is built." },
+    { "year": "2011",            "title": "MCA.",                                  "org": "Vaish College of Engineering, Rohtak.",        "body": "Three more years on the technical side — software engineering, systems, and the DBMS I'd later teach." },
+    { "year": "2012",            "title": "MBA.",                                  "org": "Maharishi Dayanand University.",               "body": "Business administration in parallel with the MCA — operations, HR, strategy. The frameworks behind the work." },
+    { "year": "2012–13",         "title": "Contract Lecturer, DBMS.",              "org": "Neki Ram College, Rohtak.",                    "body": "Full-time lecturer for BCA students — first time on the other side of the lecture hall." },
+    { "year": "2013–14",         "title": "A personal year.",                      "org": "Marriage and home.",                           "body": "A year away from work — the kind of pause that's part of any honest career." },
+    { "year": "2014–16",         "title": "School Coordinator.",                   "org": "Ved Model International School, Rohtak.",      "body": "End-to-end academic operations — timetabling, examinations, inter-school events." },
+    { "year": "2016–17",         "title": "Project Coordinator.",                  "org": "IIMT College of Pharmacy, Greater Noida.",     "body": "Departmental projects, academic events, and the trackers that became the team's reporting standard." },
+    { "year": "2017–19",         "title": "Science Faculty, then Coordinator.",    "org": "American Montessori, Gurugram.",               "body": "Taught Science, then took over the academic and activity calendar for 600+ students across grade levels." },
+    { "year": "2019–23",         "title": "Home tuition.",                         "org": "Rohtak, through the pandemic.",                "body": "All subjects, Grades 6–10, batches of 8 to 10 students — kept the work going when classrooms weren't an option." },
+    { "year": "Apr–Dec 2023",    "title": "Science Faculty.",                      "org": "Alpine Convent School, Gurgaon.",              "body": "Returned to a school classroom from April through December — a final teaching chapter before the corporate pivot." },
+    { "year": "May–Jun 2023",    "title": "HR Intern, part-time.",                 "org": "GAO Tek Group, Remote.",                       "body": "A two-month internship alongside Alpine — first formal corporate experience since the MBA." },
+    { "year": "2024–25",         "title": "Science Teacher.",                      "org": "Shikshiyan School, Gurugram.",                 "body": "Taught Science to Grades 7 and 8 from April 2024 to January 2025." },
+    { "year": "2025→ now",       "title": "AI upskilling and the pivot.",          "org": "Self-directed.",                               "body": "Working through Google's AI Essentials and AI Professional Certificate. Looking for the next chapter — training, operations, or analytics." }
+  ],
+  "skills": {
+    "office_productivity": ["Microsoft 365", "Excel", "PowerPoint", "Word", "Microsoft Showcase", "Canva"],
+    "operations_people":   ["Stakeholder management", "Curriculum design", "Team leadership", "Activity coordination", "Examination logistics", "L&D content"],
+    "technical_ai":        ["C++", "Java", "HTML", "DBMS", "Software Testing", "MIS reporting", "ChatGPT (daily use)", "Gemini (daily use)", "Claude (daily use)", "Google AI · learning", "Power BI · learning", "SQL · learning"]
+  },
+  "certifications": [
+    { "id": "google-ai-essentials", "name": "Google AI Essentials",                  "issuer": "Google",   "status": "in-progress" },
+    { "id": "google-ai-prof",       "name": "Google AI Professional Certificate",    "issuer": "Coursera", "status": "in-progress" },
+    { "id": "cbse-nep",             "name": "NEP 2020 — Salient Features",           "issuer": "CBSE",     "status": "completed" },
+    { "id": "cbse-math",            "name": "Joyful Mathematics",                    "issuer": "CBSE",     "status": "completed" },
+    { "id": "cbse-storytelling",    "name": "Story Telling in Classroom",            "issuer": "CBSE",     "status": "completed" },
+    { "id": "udemy-testing",        "name": "Software Testing — Foundations",        "issuer": "Udemy",    "status": "completed" }
+  ]
+}
