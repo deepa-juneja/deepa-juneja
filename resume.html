@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title data-slot="title">Deepa Juneja — Resume</title>
+  <meta name="description" content="Deepa Juneja — one-page resume.">
+  <meta name="keywords" data-slot="meta-keywords" content="">
+  <link rel="icon" type="image/svg+xml" href="assets/favicon.svg">
+  <link rel="stylesheet" href="css/resume.css">
+</head>
+<body>
+
+<div class="actions">
+  <a href="index.html" class="who">← Deepa Juneja · Portfolio</a>
+  <span class="role-tag" data-slot="role-tag">Resume</span>
+  <button class="btn" onclick="window.print()" type="button">↓ Save as PDF</button>
+</div>
+
+<div class="page-wrap">
+  <h1 class="name">DEEPA JUNEJA</h1>
+  <div class="contact-line" data-slot="contact"></div>
+
+  <h2 class="sec">Summary</h2>
+  <p class="summary" data-slot="summary"></p>
+
+  <h2 class="sec">Experience</h2>
+  <div data-slot="experience"></div>
+
+  <h2 class="sec">Education</h2>
+  <div data-slot="education"></div>
+
+  <h2 class="sec">Skills</h2>
+  <div class="skills-block" data-slot="skills"></div>
+
+  <h2 class="sec">Certifications</h2>
+  <ul class="certs-list" data-slot="certifications"></ul>
+</div>
+
+<script type="module" src="js/render-resume.js"></script>
+</body>
+</html>
