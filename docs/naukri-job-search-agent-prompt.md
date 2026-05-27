@@ -324,21 +324,70 @@ Previously successful application patterns:
   mandatory-question failures — log them but do not waste time retrying
 - Walk-in roles at Gurgaon schools yield good outcomes if attended in person
 
+Role-tailored resume selection (NEW):
+The repo at https://github.com/deepa-juneja/deepa-juneja contains six pre-built
+ATS-friendly resume PDFs in the resumes/ folder, each tailored to a specific
+role family. When a Naukri application form offers a per-application resume
+picker or upload field (this varies by employer — check each form), attach
+the BEST file from the table below instead of the default. Otherwise rely on
+the resume Deepa has on her Naukri profile (recommended primary: General).
+
+| Posted role / bucket pattern        | File to attach                                                |
+|-------------------------------------|---------------------------------------------------------------|
+| MIS / Excel / Reporting / Data /    | resumes/Deepa Juneja - Data and MIS Analyst.pdf               |
+| Analyst / Data Coordinator          |                                                               |
+| Training / L&D / Process Trainer /  | resumes/Deepa Juneja - Training & L&D Coordinator.pdf         |
+| Soft Skills / Instructional /       |                                                               |
+| Onboarding / Corporate Trainer      |                                                               |
+| Academic Counsellor / Admissions /  | resumes/Deepa Juneja - EdTech Counsellor.pdf                  |
+| Career / Education Counsellor /     |                                                               |
+| EdTech Coordinator / Programme /    |                                                               |
+| Learner Success / Student Success   |                                                               |
+| HR Coordinator / HR Executive /     | resumes/Deepa Juneja - HR and Operations Coordinator.pdf      |
+| HR Generalist / Operations /        |                                                               |
+| Office / Admin / Recruiting /       |                                                               |
+| People Operations                   |                                                               |
+| School Coordinator / Academic /     | resumes/Deepa Juneja - School Coordinator.pdf                 |
+| Faculty / Activity Head /           |                                                               |
+| Science Teacher / TGT / PRT         |                                                               |
+| Online Teacher / Online Tutor / SME |                                                               |
+| AI Trainer / AI Content Specialist /| resumes/Deepa Juneja - General.pdf (also fine: Training & L&D)|
+| LLM Evaluator / Annotator           |                                                               |
+| KPO Backend / Banking Process /     | resumes/Deepa Juneja - HR and Operations Coordinator.pdf      |
+| QA non-coding / Process Associate / |                                                               |
+| Customer Success / EA-with-MIS      |                                                               |
+| BDA / EdTech Inside Sales /         | resumes/Deepa Juneja - EdTech Counsellor.pdf                  |
+| Enrolment Counsellor                |                                                               |
+| Anything else / unsure / mixed /    | resumes/Deepa Juneja - General.pdf                            |
+| generalist                          |                                                               |
+
+When in doubt, attach the General resume. Never attach a file that mismatches
+the role family (e.g., don't send the Data Analyst PDF to a Science Teacher
+posting — the bullet emphasis will read wrong).
+
 Application behavior:
 1. Search the priority buckets above. Cover at least 6 buckets per session.
 2. Open each promising job page before applying. Read the JD top 5 lines.
 3. Identify the apply route: direct Naukri Apply / Apply on company site /
    walk-in / interest / already applied.
-4. For direct Naukri Apply, apply after the user has confirmed the batch.
-5. If "Apply on company site", list separately for an external-forms pass.
-6. If Naukri reports mandatory questions but does not show them, mark
+4. CHECK FOR RESUME PICKER: On the apply form, look for "Attach resume",
+   "Upload a different resume", "Choose CV", or a file-attachment field.
+   If present, use the role-tailored resume from the mapping above instead
+   of the default profile resume.
+5. For direct Naukri Apply, apply after the user has confirmed the batch.
+6. If "Apply on company site", list separately for an external-forms pass.
+   These almost always allow custom resume upload — definitely use the
+   role-tailored file.
+7. If Naukri reports mandatory questions but does not show them, mark
    blocked_mandatory_questions and move on.
-7. If questions are visible, answer conservatively using only known profile
+8. If questions are visible, answer conservatively using only known profile
    facts. Do not invent experience. For "years in [tool/skill]" questions,
    use realistic numbers (Excel: 8, Microsoft Office: 12, MIS reporting: 3,
    SQL: 0.5, Power BI: 0.5, Teaching: 12, Coordination: 8, AI tools: 1).
-8. If a cover letter / message field exists, use the template below.
-9. Save walk-in/external/already-applied items in the next-action list.
+9. If a cover letter / message field exists, use the template below.
+10. Save walk-in/external/already-applied items in the next-action list.
+11. In the result log, record WHICH resume variant was attached per
+    application so the user can audit.
 
 Cover letter / message template (copy-paste, edit per role):
 "I'm Deepa Juneja — MBA + MCA + BCA with over a decade across teaching,
@@ -443,15 +492,17 @@ Naukri-specific tips to apply consistently:
 - Posted within last 7 days, < 50 applicants = highest callback probability.
 
 Output format after a run:
-- ✅ Applied successfully (with callback probability estimate per row:
-  High / Medium / Low, based on company match, freshness, applicant count,
-  and JD fit)
+- ✅ Applied successfully — table with columns:
+    Company | Role | Resume variant attached | Callback prob (H/M/L) |
+    Posted (days ago) | Applicants count | URL
 - ⚠ Blocked by mandatory questions (skip-for-now list)
 - 📁 Already applied / company already covered
-- 🌐 Company-site only (external-forms pass next session)
-- 🚶 Walk-in / interest (with address + timings to attend in person)
+- 🌐 Company-site only (external-forms pass next session) — list with the
+  resume variant that should be uploaded
+- 🚶 Walk-in / interest (with address + timings to attend in person, plus
+  which printed resume to carry)
 - 🎯 Good next-run targets (companies/roles spotted but not applied this run)
 - 🔍 Searches that produced poor results (note for trimming next time)
-- 📈 Session totals: applications submitted, callbacks expected (high+med),
-  saved-for-later count.
+- 📈 Session totals: applications submitted, breakdown by resume variant
+  used, callbacks expected (high + medium), saved-for-later count.
 ```
