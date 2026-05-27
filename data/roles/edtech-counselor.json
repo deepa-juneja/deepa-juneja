@@ -1,0 +1,44 @@
+{
+  "role_key": "edtech-counselor",
+  "role_title": "EdTech Counsellor / Coordinator",
+  "summary": "Educator with twelve years inside schools and colleges — teaching, coordinating, and advising students through academic decisions. MBA-trained, with a Computer Applications background that bridges the technical and pedagogical sides of EdTech. Seeking an Academic Counsellor, Admissions Counsellor, or Programme Coordinator role at an EdTech firm — bringing real classroom credibility and AI literacy to the conversation with prospective learners.",
+  "include_experience": ["ai-upskill", "shikshiyan", "alpine", "amps", "iimt", "ved", "home-tuition", "neki-ram"],
+  "experience_overrides": {
+    "amps": {
+      "highlights": [
+        "Coordinated student admissions, transfers, and academic placements for a school of 600+ students.",
+        "Acted as the operational counsellor for parent–teacher communications across grade levels.",
+        "Advised students through subject choices, exam preparation, and remediation pathways."
+      ]
+    },
+    "iimt": {
+      "highlights": [
+        "Coordinated student records and academic events at a pharmacy college — the EdTech equivalent of programme operations.",
+        "Prepared trackers and reports that supported faculty decisions on student progression."
+      ]
+    },
+    "home-tuition": {
+      "highlights": [
+        "Direct one-to-many advisor to 8–10 students per batch across Grades 6–10, covering all subjects.",
+        "Counselled families on subject choices, study habits, and exam strategy through the pandemic and into 2023."
+      ]
+    },
+    "ai-upskill": {
+      "highlights": [
+        "Working through Google AI Essentials and the Google AI Professional Certificate — firsthand experience of the EdTech learner journey.",
+        "Daily use of ChatGPT, Gemini, and Claude — credibility with prospective learners exploring AI-related programmes."
+      ]
+    }
+  },
+  "emphasized_skills": [
+    "Academic counselling across age groups (Grades 6 – BCA)",
+    "Admissions coordination and student placement",
+    "Programme operations — calendar, faculty, assessments",
+    "Parent and student stakeholder communication",
+    "Content design — Canva, Microsoft 365",
+    "AI literacy — ChatGPT, Gemini, Claude (daily use)",
+    "Empathetic listening and learner advising"
+  ],
+  "include_certifications": "all",
+  "keywords": ["Academic Counsellor", "Admissions Counsellor", "Education Counsellor", "Career Counsellor", "EdTech Coordinator", "Programme Coordinator", "Student Success", "BYJU", "upGrad", "Scaler", "Newton", "Masai", "MBA", "MCA", "counselling"]
+}
