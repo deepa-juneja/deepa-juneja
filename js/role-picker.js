@@ -64,7 +64,7 @@ const MODAL_HTML = `
     <button class="modal-close" data-close-picker aria-label="Close" type="button">×</button>
 
     <div class="modal-primary">
-      <div class="kicker">§ The Resume Desk</div>
+      <div class="kicker">Download my resume</div>
       <button class="modal-default" data-variant="general" type="button">
         <div class="md-text">
           <div class="md-title">Download my complete resume</div>
