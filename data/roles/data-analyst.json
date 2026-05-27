@@ -1,0 +1,47 @@
+{
+  "role_key": "data-analyst",
+  "role_title": "Data / MIS Analyst",
+  "summary": "Computer Applications postgrad (BCA, MCA) and MBA with over a decade of building, running, and reporting on operational systems across schools and small institutions. Day-to-day proficiency in Microsoft Excel and MIS reporting from running examinations, calendars, and stakeholder pipelines. SQL and Power BI in active progress; foundation in DBMS from teaching the subject. Seeking a junior Data Analyst, MIS Analyst, or Reporting Analyst role to apply this analytical foundation in a business-driven environment.",
+  "include_experience": ["ai-upskill", "shikshiyan", "alpine", "gao-tek", "amps", "iimt", "ved", "neki-ram"],
+  "experience_overrides": {
+    "amps": {
+      "highlights": [
+        "Maintained student, staff, and exam records in Microsoft Excel; produced termly reports for the principal's office.",
+        "Owned the examination logistics tracker — seating, invigilation, results — as the de-facto MIS for 600+ students.",
+        "Coordinated faculty schedules across grade levels — stakeholder management for 25+ teachers."
+      ]
+    },
+    "gao-tek": {
+      "highlights": [
+        "Maintained candidate and interviewer schedules in Microsoft Excel; produced weekly hiring progress reports.",
+        "Coordinated multi-role pipelines across time zones with shared trackers and Microsoft Teams.",
+        "Standardised reporting templates that the wider HR team adopted."
+      ]
+    },
+    "neki-ram": {
+      "highlights": [
+        "Taught Database Management Systems to BCA students — relational modelling, normalisation, SQL fundamentals.",
+        "Designed coursework, lab exercises, and semester assessments."
+      ]
+    },
+    "ai-upskill": {
+      "highlights": [
+        "Working through Google AI Essentials and the Google AI Professional Certificate (Coursera).",
+        "Daily working use of ChatGPT, Gemini, and Claude for research, writing, and analysis.",
+        "Self-paced Excel, Power BI, and SQL practice for data-analyst roles."
+      ]
+    }
+  },
+  "emphasized_skills": [
+    "Microsoft Excel (advanced — VLOOKUP, pivot tables, conditional formatting)",
+    "MIS reporting (operational dashboards, weekly status reports)",
+    "Data visualisation — Power BI (learning)",
+    "SQL — basics (learning)",
+    "DBMS fundamentals — taught at college level",
+    "Stakeholder management across faculty, parents, leadership",
+    "Google AI Essentials (in progress)",
+    "Daily AI tooling — ChatGPT, Gemini, Claude"
+  ],
+  "include_certifications": ["google-ai-essentials", "google-ai-prof", "udemy-testing"],
+  "keywords": ["Data Analyst", "MIS", "MIS Executive", "Reporting Analyst", "Business Analyst", "Excel", "VLOOKUP", "Pivot Tables", "Power BI", "SQL", "DBMS", "MBA", "MCA", "BCA", "stakeholder management", "data analysis", "MS Office"]
+}
