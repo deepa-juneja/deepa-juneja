@@ -13,7 +13,7 @@
 
 @page {
   size: A4;
-  margin: 0.55in 0.65in;
+  margin: 0.45in 0.55in;
 }
 
 :root {
@@ -28,8 +28,8 @@ html, body {
   background: #EAE6DD;       /* on-screen only */
   font-family: Calibri, "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: var(--ink);
-  line-height: 1.38;
-  font-size: 11pt;
+  line-height: 1.32;
+  font-size: 10.5pt;
 }
 
 /* The page chrome (visible only on screen) */
@@ -114,7 +114,7 @@ p.summary {
   margin-bottom: 4pt;
 }
 
-.job { margin-bottom: 10pt; page-break-inside: avoid; }
+.job { margin-bottom: 7pt; page-break-inside: avoid; }
 .job-head {
   display: flex;
   justify-content: space-between;
