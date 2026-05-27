@@ -1,0 +1,46 @@
+{
+  "role_key": "training-ld",
+  "role_title": "Training & L&D Coordinator",
+  "summary": "Twelve years of classroom teaching, school coordination, and adult-learner instruction (DBMS, science, multi-subject), now bringing that craft to corporate L&D. MBA-trained operator with proven experience designing curricula, running training calendars, coordinating faculty, and tracking outcomes — the same operations work corporate L&D teams do, in a different vocabulary. Seeking a Training Coordinator, L&D Coordinator, or Corporate Trainer role.",
+  "include_experience": ["ai-upskill", "shikshiyan", "alpine", "amps", "iimt", "ved", "neki-ram", "home-tuition"],
+  "experience_overrides": {
+    "amps": {
+      "highlights": [
+        "Designed and ran the academic and activity calendar for 600+ learners across grade levels — the equivalent of a multi-cohort training programme.",
+        "Coordinated 25+ teaching faculty: scheduling, content alignment, observation, and feedback.",
+        "Managed examination delivery end-to-end — assessment design, invigilation, scoring, results."
+      ]
+    },
+    "neki-ram": {
+      "highlights": [
+        "Full-time contract lecturer teaching Database Management Systems to BCA students at college level.",
+        "Designed lectures, labs, and semester assessments; mentored students through coursework.",
+        "First role training adult learners on a technical subject — the closest analogue to corporate technical training."
+      ]
+    },
+    "home-tuition": {
+      "highlights": [
+        "Ran small-batch instruction (8–10 students per batch) across all subjects for Grades 6–10 from 2019 through 2023.",
+        "Designed differentiated lesson plans for mixed-ability cohorts; tracked progress over multiple academic years."
+      ]
+    },
+    "ai-upskill": {
+      "highlights": [
+        "Working through Google AI Essentials and the Google AI Professional Certificate (Coursera) — relevant for any L&D function that now needs AI literacy in its curriculum.",
+        "Daily working use of ChatGPT, Gemini, and Claude — practical adult-learner exposure to the tools L&D programmes are starting to teach."
+      ]
+    }
+  },
+  "emphasized_skills": [
+    "Curriculum and lesson design across age and subject ranges",
+    "Training delivery — children, teenagers, and adult learners",
+    "Calendar and faculty coordination at school scale",
+    "Examination and assessment design",
+    "Microsoft 365 — Word, Excel, PowerPoint, Teams",
+    "Content design — Canva, Microsoft Showcase",
+    "AI literacy for L&D — ChatGPT, Gemini, Claude",
+    "Stakeholder management — faculty, parents, leadership"
+  ],
+  "include_certifications": "all",
+  "keywords": ["Training Coordinator", "L&D Coordinator", "Learning and Development", "Corporate Trainer", "Process Trainer", "Soft Skills Trainer", "Instructional Designer", "Onboarding Specialist", "curriculum design", "training delivery", "facilitation", "MBA", "MCA", "LMS"]
+}
