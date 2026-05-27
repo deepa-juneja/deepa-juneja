@@ -1,0 +1,46 @@
+{
+  "role_key": "hr-operations",
+  "role_title": "HR / Operations Coordinator",
+  "summary": "MBA and Master of Computer Applications professional with twelve years of operational experience in academic coordination, project coordination, and people operations. Recent HR internship at GAO Tek Group (remote) plus four CBSE / Udemy certifications and two Google AI certifications in progress. Seeking an HR / Operations Coordinator role to apply proven skills in stakeholder management, scheduling, documentation, and MIS reporting in a corporate environment.",
+  "include_experience": ["ai-upskill", "shikshiyan", "alpine", "gao-tek", "amps", "iimt", "ved", "neki-ram"],
+  "experience_overrides": {
+    "gao-tek": {
+      "highlights": [
+        "Coordinated candidate sourcing pipelines across multiple open roles using shared trackers and Microsoft Teams.",
+        "Maintained candidate and interviewer schedules in Microsoft Excel; produced weekly progress reports for the hiring manager.",
+        "Drafted standardised outreach templates and onboarding checklists adopted by the wider HR team."
+      ]
+    },
+    "amps": {
+      "highlights": [
+        "Owned the academic and activity calendar for a school of 600+ students; coordinated 25+ faculty across grade levels.",
+        "Ran examination logistics — seating, invigilation rosters, result compilation — using Microsoft Excel as the system of record.",
+        "Acted as the operational point of contact between parents, teachers, and the principal's office for day-to-day issues."
+      ]
+    },
+    "ved": {
+      "highlights": [
+        "Managed end-to-end academic operations: timetabling, substitute scheduling, and exam administration.",
+        "Led extra-curricular programming and inter-school events; coordinated vendor logistics for school functions."
+      ]
+    },
+    "ai-upskill": {
+      "highlights": [
+        "Working through Google AI Essentials and the Google AI Professional Certificate.",
+        "Daily working use of ChatGPT, Gemini, and Claude for documentation, drafting, and process design."
+      ]
+    }
+  },
+  "emphasized_skills": [
+    "Stakeholder management — faculty, parents, leadership, candidates",
+    "Calendar, event, and examination coordination",
+    "Recruiting coordination — sourcing, scheduling, tracking",
+    "Onboarding documentation and process templates",
+    "Microsoft 365 — Word, Excel, PowerPoint, Outlook, Teams",
+    "MIS reporting — weekly status, hiring pipelines, operational dashboards",
+    "Vendor coordination for institutional events",
+    "AI literacy — ChatGPT, Gemini, Claude (daily use)"
+  ],
+  "include_certifications": "all",
+  "keywords": ["HR Coordinator", "HR Executive", "HR Generalist", "HR Assistant", "Operations Coordinator", "Operations Executive", "Office Coordinator", "Admin Coordinator", "Recruiting Coordinator", "People Operations", "MBA", "MCA", "stakeholder management", "MIS"]
+}
