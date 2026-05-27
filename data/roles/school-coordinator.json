@@ -1,0 +1,51 @@
+{
+  "role_key": "school-coordinator",
+  "role_title": "School Coordinator",
+  "summary": "Educator with twelve years inside schools — Science Faculty, Academic Coordinator, School Coordinator, and home-tuition educator through the pandemic. MBA and Master of Computer Applications, with four CBSE certifications spanning NEP 2020, Joyful Mathematics, and Story Telling in Classroom. Seeking a School Coordinator, Academic Coordinator, or Faculty Coordinator role at a CBSE / IB / IGCSE-affiliated school.",
+  "include_experience": ["shikshiyan", "alpine", "amps", "home-tuition", "iimt", "ved", "neki-ram"],
+  "experience_overrides": {
+    "shikshiyan": {
+      "highlights": [
+        "Science Teacher for Grades 7 and 8 — daily classroom delivery, lesson planning, and term-end assessments.",
+        "Mentored students through remediation, projects, and inter-class activities."
+      ]
+    },
+    "alpine": {
+      "highlights": [
+        "Science Faculty for upper-primary and middle-school students from April through December 2023.",
+        "Held additional charge as Activity Head; led school-level Science Quizzes and inter-school competitions."
+      ]
+    },
+    "amps": {
+      "highlights": [
+        "Joined as Science Faculty; promoted to Coordinator with charge over the academic and activity calendar.",
+        "Owned exam logistics — seating, invigilation rosters, result compilation — for 600+ students.",
+        "Acted as the operational point of contact between parents, teachers, and the principal's office."
+      ]
+    },
+    "ved": {
+      "highlights": [
+        "Managed end-to-end academic operations: timetabling, substitute scheduling, examination administration.",
+        "Led extra-curricular programming and inter-school events; coordinated vendor logistics for school functions."
+      ]
+    },
+    "home-tuition": {
+      "highlights": [
+        "Taught all subjects to Grades 6–10 in batches of 8 to 10 students from 2019 to 2023.",
+        "Built lesson plans, ran assessments, and tracked student progress over multiple academic years through the pandemic."
+      ]
+    }
+  },
+  "emphasized_skills": [
+    "Academic calendar and timetabling",
+    "Examination administration — seating, invigilation, scoring, results",
+    "Faculty coordination across grades and subjects",
+    "Parent–teacher liaison and counselling",
+    "Activity and event programming — quizzes, competitions, inter-school events",
+    "CBSE curriculum and NEP 2020 alignment",
+    "Microsoft 365, Canva, Microsoft Showcase",
+    "Curriculum design and lesson planning"
+  ],
+  "include_certifications": ["cbse-nep", "cbse-math", "cbse-storytelling", "udemy-testing", "google-ai-essentials"],
+  "keywords": ["School Coordinator", "Academic Coordinator", "Faculty Coordinator", "Activity Head", "Science Faculty", "Science Teacher", "Headmistress", "Vice Principal", "CBSE", "NEP 2020", "lesson planning", "examination", "MBA"]
+}
