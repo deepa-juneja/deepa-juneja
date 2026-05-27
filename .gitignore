@@ -14,6 +14,5 @@ node_modules/
 # Generated
 *.log
 
-# LinkedIn artifacts (prior session, separate scope from this portfolio)
+# LinkedIn cover-image experiments (prior session, separate scope)
 /assets/linkedin-*
-/linkedin-profile-update-draft.md
