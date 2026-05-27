@@ -30,7 +30,7 @@ function renderHero(p) {
     <span><b>Open to</b> Hybrid · Remote · NCR onsite</span>
     <span><b>Languages</b> ${p.languages.map(esc).join(' · ')}</span>
   `);
-  setHTML('portrait', ``); // photo wired in Task 18
+  setHTML('portrait', `<img src="assets/deepa.jpg" alt="Deepa Juneja" loading="eager" style="width:100%;height:100%;object-fit:cover;display:block;">`);
 }
 
 function renderAbout(p) {

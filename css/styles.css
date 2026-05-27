@@ -141,16 +141,7 @@
     overflow: hidden;
     border: 1px solid var(--terra-2);
   }
-  .portrait .frame::after {
-    content: "DJ";
-    position: absolute; inset: 0;
-    display: grid; place-items: center;
-    font-family: var(--serif); font-weight: 300;
-    font-size: 180px;
-    color: rgba(243, 236, 220, 0.18);
-    font-variation-settings: "opsz" 144;
-    letter-spacing: -0.04em;
-  }
+
   .portrait .caption {
     position: absolute;
     bottom: -22px; right: 4px;
