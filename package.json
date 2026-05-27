@@ -1,0 +1,9 @@
+{
+  "name": "deepa-juneja-portfolio",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "validate": "node scripts/validate-data.mjs"
+  }
+}
