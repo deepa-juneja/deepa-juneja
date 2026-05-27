@@ -2,7 +2,7 @@
 
 > **For agentic workers:** REQUIRED SUB-SKILL: Use superpowers:subagent-driven-development (recommended) or superpowers:executing-plans to implement this plan task-by-task. Steps use checkbox (`- [ ]`) syntax for tracking.
 
-**Goal:** Build the live portfolio + 6-variant resume system at `https://raiaman15.github.io/deepa-juneja/` from the approved design spec.
+**Goal:** Build the live portfolio + 6-variant resume system at `https://deepa-juneja.github.io/deepa-juneja/` from the approved design spec.
 
 **Architecture:** Vanilla HTML/CSS/JS, no build step. Master profile JSON + 6 role overlay JSONs. Portfolio is one page; resume is one template that accepts `?role=<key>` and renders the appropriate variant. PDFs are produced by the browser's print dialog. Deployed via GitHub Actions to GitHub Pages.
 
@@ -123,7 +123,7 @@ git commit -m "chore: add gitignore and editorconfig"
 
 Personal portfolio and ATS-friendly resume system for [Deepa Juneja](https://www.linkedin.com/in/deepa-juneja/), an educator-turned-operator based in Gurugram.
 
-**Live:** https://raiaman15.github.io/deepa-juneja/
+**Live:** https://deepa-juneja.github.io/deepa-juneja/
 
 ## How it works
 
@@ -844,7 +844,7 @@ Build the semantic skeleton with `data-section` slots that `render-portfolio.js`
       <div class="col">
         <h6>Elsewhere</h6>
         <a data-slot="footer-linkedin" target="_blank" rel="noopener">LinkedIn</a>
-        <a href="https://github.com/raiaman15/deepa-juneja" target="_blank" rel="noopener">Source on GitHub</a>
+        <a href="https://github.com/deepa-juneja/deepa-juneja" target="_blank" rel="noopener">Source on GitHub</a>
         <a href="#resume">Resume ↓</a>
       </div>
     </div>
@@ -1749,7 +1749,7 @@ Or open the Actions tab in the browser and confirm both `validate` and `deploy` 
 
 - [ ] **Step 4: Manual verification — live site**
 
-Open `https://raiaman15.github.io/deepa-juneja/`. Verify:
+Open `https://deepa-juneja.github.io/deepa-juneja/`. Verify:
 - Portfolio loads with all sections populated.
 - "Download Resume" modal opens.
 - Each role variant resume renders (try `.../resume.html?role=hr-operations`, etc.).
@@ -1796,7 +1796,7 @@ git push origin main
 
 - [ ] **Step 1: Cross-browser check on the live URL**
 
-Open `https://raiaman15.github.io/deepa-juneja/` in:
+Open `https://deepa-juneja.github.io/deepa-juneja/` in:
 - Chrome desktop
 - Safari desktop
 - Mobile Chrome / Safari (use real device or a simulator)
@@ -1813,7 +1813,7 @@ For each:
 In `docs/superpowers/specs/2026-05-27-deepa-juneja-portfolio-design.md`, change the `**Status:**` line to:
 
 ```
-**Status:** Shipped 2026-05-27 — https://raiaman15.github.io/deepa-juneja/
+**Status:** Shipped 2026-05-27 — https://deepa-juneja.github.io/deepa-juneja/
 ```
 
 - [ ] **Step 3: Commit**

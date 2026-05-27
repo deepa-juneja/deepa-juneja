@@ -1,8 +1,8 @@
 # Deepa Juneja — Portfolio + Resume System
 
 **Date:** 2026-05-27
-**Status:** Shipped 2026-05-27 — https://raiaman15.github.io/deepa-juneja/
-**Owner:** Aman Rai (raiaman15)
+**Status:** Shipped 2026-05-27 — https://deepa-juneja.github.io/deepa-juneja/
+**Owner:** Aman Rai (built for Deepa Juneja; repo now under her account)
 **Subject:** Deepa Juneja
 
 ## 1. Goal
@@ -302,7 +302,7 @@ Hard constraints baked into `css/resume.css` and `resume.html`:
   - Uses `actions/configure-pages@v5`, `actions/upload-pages-artifact@v3` (root path), and `actions/deploy-pages@v4`.
   - No build step — the repo root is the artifact.
 - **Settings:** Pages source set to "GitHub Actions" in the repo settings.
-- **No custom domain in v1.** Default URL: `https://raiaman15.github.io/deepa-juneja/`.
+- **No custom domain in v1.** Default URL: `https://deepa-juneja.github.io/deepa-juneja/`.
 
 ## 10. Data of record
 

@@ -11,7 +11,7 @@ Pre-formatted HTML emails Deepa can paste into Gmail when reaching out about opp
 ## How to send one
 
 1. **Download the matching resume PDF.**
-   - Open https://raiaman15.github.io/deepa-juneja/
+   - Open https://deepa-juneja.github.io/deepa-juneja/
    - Click *Download Resume*
    - In the picker, type the role you're targeting (e.g. *School Coordinator*, *Science Faculty*) and pick it
    - On the resume page, click **↓ Save as PDF**

@@ -2,7 +2,7 @@
 
 Personal portfolio and ATS-friendly resume system for [Deepa Juneja](https://www.linkedin.com/in/deepa-juneja/), an educator-turned-operator based in Gurugram.
 
-**Live:** https://raiaman15.github.io/deepa-juneja/
+**Live:** https://deepa-juneja.github.io/deepa-juneja/
 
 ## How it works
 
